@@ -1,7 +1,7 @@
 
 Hola
 
-esta es mi primera prueba con git
+esta es mi segunda prueba con git
 
 vamos a modificarlo
 
