@@ -11,7 +11,8 @@ Mi nombre es Alejandra
 En estos momentos me encuentro haciendo pruebas 
 sobre git
 
-este es un intento de ordendar la cosas
-
-
-
+sobre este archivo se estan realizando cambios a 
+nivel de body para que en el futuro se fusionen
+con la rama develop donde se esta modificando 
+la CABECERA.
+ 
