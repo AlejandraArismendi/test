@@ -1,8 +1,17 @@
+-+-+-+-+-+-+-+-+-+-+-+-+--+-+-+-+-+-+-+-+-+-++-+++-
+-+++-+-+-+-++       CABECERA       +-+-+-+-+-+-+-+-
+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-
 
-Hola
+Mi nombre es Alejandra
 
-esta es mi segunda prueba con git
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
++-+-+-+-+-+-		BODY	   -+-+-+-+-+-+-++-
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+--+
 
-vamos a modificarlo
+En estos momentos me encuentro haciendo pruebas 
+sobre git
 
-Alejandra
+este es un intento de ordendar la cosas
+
+
+
