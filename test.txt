@@ -6,3 +6,6 @@ esta es mi segunda prueba con git
 vamos a modificarlo
 
 Alejandra
+
+prueba soft esta raro
+
