@@ -2,7 +2,7 @@
 -+++-+-+-+-++       CABECERA       +-+-+-+-+-+-+-+-
 -++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-
 
-_______SITIO DONDE SE ESTABLECER LA CABECERA______
+_______  SITIO DONDE CREAMOS LA CABECERA    ______
 		    TEST HEAD
 
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
