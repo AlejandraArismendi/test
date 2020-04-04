@@ -14,13 +14,5 @@ estoy trabajando con un repo clonado
 +-+-+-+-+-+-		BODY	   -+-+-+-+-+-+-++-
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+--+
 
-Modificado por alejandra2 pq es mi trabajo
-
-En estos momentos me encuentro haciendo pruebas 
-sobre git
-
-sobre este archivo se estan realizando cambios a 
-nivel de body para que en el futuro se fusionen
-con la rama develop donde se esta modificando 
-la CABECERA.
+MAS CAMBIOS
 
